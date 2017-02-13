@@ -15,7 +15,6 @@ void draw() {
     }  
 }
 
-
 class Drop{
 
     float x = random(width) ,
