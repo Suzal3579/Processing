@@ -12,6 +12,8 @@ float tx,ty,tz;
 Tara[] taras = new Tara[3000];
 float speed;
 
+// For accessing sensors ... check out processing reference page ...
+
 void setup() {
   fullScreen();
   context = getActivity();
