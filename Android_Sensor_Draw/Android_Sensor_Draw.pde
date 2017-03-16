@@ -13,6 +13,8 @@ Tara[] taras = new Tara[3000];
 float speed;
 
 // For accessing sensors ... check out processing reference page ...
+// Added todos ..
+
 
 void setup() {
   fullScreen();
